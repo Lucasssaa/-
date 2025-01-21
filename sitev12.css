@@ -1,0 +1,40 @@
+.body {
+    
+    background-color: #001a0b;
+    color: white;
+    
+}
+
+.madchat {
+    margin-top: 10%;
+    text-align: center;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px
+}
+.description {
+    text-align: center;
+    color: antiquewhite;
+}
+
+.a {
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow
+}
+
+
+.return {
+    color: antiquewhite;
+    padding-top: 5%;
+    padding-left: 1%;
+}
+
+.td {
+    border-style: solid 1px;
+    border-bottom:antiquewhite;
+}
+

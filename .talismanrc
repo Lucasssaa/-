@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: 634531e5dc88a0c7d0dba1edf74444ff08ae69b3e09ba9af234d90f1b437ca7f
+- filename: node_modules/.package-lock.json
+  checksum: 58ee5d03537a28afb20114cac37345d3ddbed36368c77acb746331442595414c
+version: ""
